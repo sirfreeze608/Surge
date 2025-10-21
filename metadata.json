@@ -1,0 +1,7 @@
+{
+  "name": "Surge AI Agent",
+  "description": "An AI agent that can use tools like a calculator and weather service to answer questions. It features voice input and output for a hands-free conversational experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
